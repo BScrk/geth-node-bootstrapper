@@ -1,5 +1,5 @@
-# GETH NODE BOOTSTRAPPER
-This project is a quick **GO-ETHEREUM NODE INSTALLATION HELPER** for ubundu vps/servers.
+# GETH LIGHT NODE BOOTSTRAPPER
+This project is a quick **GO-ETHEREUM NODE INSTALLATION HELPER** for ubuntu vps/servers.
 It's is particularly suitable for deploying a node on a newly installed server from your Lunix/Mac workstation.
 
 ## AUTO-INSTALL
